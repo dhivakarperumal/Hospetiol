@@ -1,0 +1,54 @@
+.rows
+{
+    /* background-color: #eee; */
+    height: 90vh;
+    width: 100%;
+    overflow: hidden;
+}
+.images1
+{
+    width: 600px;
+    height: 550px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.box
+{
+    margin-left: 55px;
+    margin-bottom: 130px;
+}
+.box h1
+{
+    color: black;
+}
+.box span
+{
+    color: aquamarine;
+    font-weight: bolder;
+}
+.box p
+{
+    
+    
+    color: black;
+    
+  
+}
+.btn
+{
+    background: black;
+    color: white;
+    box-shadow: none;
+    padding: 10px 30px;
+    font-weight: bolder;
+    margin-top: 15px;
+}
+.btn:hover
+{
+    background: black;
+    color: white;
+}
+button
+{
+    color: brown;
+}

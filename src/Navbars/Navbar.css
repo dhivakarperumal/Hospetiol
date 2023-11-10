@@ -1,0 +1,56 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navbars
+{
+    background:rgb(8, 70, 59);
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    position: sticky;
+    top: 0px;
+    overflow: hidden;
+}
+.logo
+{
+    margin-left: 20px;
+}
+.logo span
+{
+   color: white;
+   font-weight: bolder;
+   margin-left: 10px;
+   font-size: 23px;
+   margin-top: 10px;
+}
+.home,
+.about,
+.tretments,
+.doctors,
+.test,
+.contact,
+.logoin,
+.singup
+{
+    color: white;
+    font-weight: bolder;
+    font-size: 13px;
+    margin: 0px 18px;
+}
+.navbtn
+{
+    
+    color: white;
+    background-color: white;
+}
+.navbtn:focus
+{
+    box-shadow: none;
+    outline: none;
+    border: none;
+    color: white;
+    background-color: white;
+}

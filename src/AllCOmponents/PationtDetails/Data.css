@@ -1,0 +1,36 @@
+table
+{
+    border-collapse:collapse ;
+    margin-left: 0px;
+
+}
+th
+{
+    border: solid 2px black;
+    padding: 3px 10px;
+    background-color: rgb(60, 148, 148);
+    color: white;
+}
+td
+{
+    border: solid 2px black;
+    padding: 3px 10px;
+}
+.btn123
+{
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+}
+.btn1234
+{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border: none;
+    width: 100px;
+    height: 35px;
+    border-radius: 5px;
+}

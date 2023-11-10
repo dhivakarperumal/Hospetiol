@@ -1,0 +1,61 @@
+.boxes_models
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    
+}
+.inputs_levels
+{
+    margin-top: 20px;
+    margin-left: 15px;
+   
+}
+.elem
+{
+    width: 550px;
+    height: 500px;
+    background-color:#eee;
+    border-radius: 5px;
+    padding: 0px 15px;
+}
+input
+{
+    border-radius: 5px;
+    border-color: gray;
+    padding-left: 20px;
+    width: 98%;
+}
+.btns
+{
+    width: 95%;
+    background: linear-gradient(rgb(97, 97, 151) ,rgb(120, 201, 157));
+    padding: 10px ;
+    margin-top: 40px;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+input::placeholder
+{
+    color: gray;
+    padding-left: 10px;
+}
+.inputs_levels1 
+{
+   margin-top: 15px;
+     
+}
+.sing_head
+{
+    color: black;
+}
+span
+{
+    border: none;
+}

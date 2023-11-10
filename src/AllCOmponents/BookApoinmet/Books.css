@@ -1,0 +1,30 @@
+.welcomes
+{
+    background-color: #eee;
+    height: auto;
+    margin-bottom: 35px;
+   
+}
+.wel
+{
+    border-color: aqua;
+}
+.wel:focus
+{
+    box-shadow: none;
+    outline: none;
+    border: none;
+    border-color: aqua;
+}
+.head
+{
+    color:orange;
+}
+.head span
+{
+    border-bottom: 3px solid rgb(88, 230, 255);
+    color: black;
+    
+}
+
+

@@ -1,0 +1,14 @@
+.borders
+{
+    /* border: solid 1px black; */
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+    
+}
+.boxes h1 span
+{
+    color: aquamarine;
+    font-weight: bolder;
+}
